@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Burger App",
+        "image": "./files/burger_app.jpg",
+        "description": "Bare bones javascript app using express and handlebars as well as mongodb.",
+        "heroku": "peaceful-headland-53743.herokuapp.com/",
+        "github": "github.com/PelicanSkeleton/Burger"
+    },
+    {
+        "id": 2,
+        "name": "Friend Finder App",
+        "image": "./files/friend_finder.jpg",
+        "description": "Express javascript survey app.",
+        "heroku": "intense-tundra-03179.herokuapp.com/",
+        "github": "github.com/PelicanSkeleton/Friend-Finder"
+    },
+    {
+        "id": 3,
+        "name": "React Reading List",
+        "image": "./files/react_reading.jpg",
+        "description": "In class reading list activity that utilizes MERN.",
+        "heroku": "infinite-garden-39731.herokuapp.com/",
+        "github": "github.com/PelicanSkeleton/Activities/tree/master/week-21/week-21-activity-4/Unsolved"
+    }
+]
